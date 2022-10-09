@@ -25,7 +25,7 @@ async function getUserInput() {
             
         });  
     });
-    return await promise;
+    return promise;
 }
 
 async function play() {
